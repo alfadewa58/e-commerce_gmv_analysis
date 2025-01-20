@@ -1,6 +1,10 @@
 # GMV Analysis with SQL Queries
 ## By Alfa Isa Dewa
 
+![alt text](https://github.com/alfadewa58/e-commerce_gmv_analysis/blob/main/Screenshot%202025-01-20%20172903.png)
+
+[View the Dashboard](https://public.tableau.com/app/profile/alfa.dewa/viz/E_COMMERCE_DASHBOARD/E-CommerceDashboardMonthly)
+
 ## Tech
 - Google BigQuery for SQL querying
 - MetaBase for fast visualization
